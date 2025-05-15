@@ -2,7 +2,7 @@
 
 A full-stack AI-powered chatbot designed to provide accurate information about mental health topics by matching user questions with pre-defined FAQs using semantic similarity.
 
-![Mental Health Chatbot](https://i.imgur.com/placeholder.png)
+![Mental Health Chatbot]([https://i.imgur.com/placeholder.png](https://github.com/kushalr7/AI-Chatbot-for-Mental-Health-FAQs/blob/master/images/icon.png))
 
 ## Table of Contents
 
